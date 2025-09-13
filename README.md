@@ -38,3 +38,5 @@ they kneel in unison
 emotes
 
 also player attendees will receive a buff for a couple hours
+
+Valuable teachings will be made into an array out of which items will be chosen in a random manner for the speech of each mass.
