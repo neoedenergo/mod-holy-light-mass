@@ -1,7 +1,7 @@
 # mod-holy-light-mass
 
 ---
-# If you are on GitHub this is a mirror, the original repository with the latest updates is at [https://forgejo.neoeden.org/ergo/mod-holy-light-mass](https://forgejo.neoeden.org/ergo/mod-holy-light-mass)
+## If you are on GitHub this is a mirror, the original repository with the latest updates is at [https://forgejo.neoeden.org/ergo/mod-holy-light-mass](https://forgejo.neoeden.org/ergo/mod-holy-light-mass)
 ---
 
 Scripted event for the holy light mass.
