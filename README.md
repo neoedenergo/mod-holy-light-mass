@@ -40,3 +40,5 @@ emotes
 also player attendees will receive a buff for a couple hours
 
 Valuable teachings will be made into an array out of which items will be chosen in a random manner for the speech of each mass.
+
+The buff that players get will correspond to the item randomly chosen for the day, it will be thematic, for example the theme of faith will correspond to stats related to luck, like critical chance %.
